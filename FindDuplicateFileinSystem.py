@@ -1,5 +1,4 @@
 from collections import defaultdict
-from collections import UserList
 
 def findDuplicate( paths) :
     dic = defaultdict(list)
